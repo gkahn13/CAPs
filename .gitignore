@@ -1,0 +1,9 @@
+*#
+*.pyc
+*~
+*.swp
+/data
+/yamls
+/configs
+/.idea
+/tmp
