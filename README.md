@@ -1,3 +1,9 @@
+# Composable Action-Conditioned Predictors: Flexible Off-Policy Learning for Robot Navigation
+
+Click below to view the paper video:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lOLT7zifEkg/0.jpg)](https://www.youtube.com/watch?v=lOLT7zifEkg)
+
 ## Installation
 
 Clone the repository and go into the folder:
