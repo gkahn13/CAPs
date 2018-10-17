@@ -1,5 +1,7 @@
 # Composable Action-Conditioned Predictors: Flexible Off-Policy Learning for Robot Navigation
 
+[arXiv paper link](https://arxiv.org/abs/1810.07167)
+
 Click below to view the paper video:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lOLT7zifEkg/0.jpg)](https://www.youtube.com/watch?v=lOLT7zifEkg)
@@ -147,3 +149,16 @@ $ python run_gcg.py caps/carla/coll_speed/dql
 ```
 
 Warning: this will take multiple days to run.
+
+## Referencing
+
+If you use CAPs, please cite our CoRL 2018 paper.
+
+```bib
+@inproceedings{Kahn2018_CoRL,
+  title = {Composable Action-Conditioned Predictors: Flexible Off-Policy Learning for Robot Navigation},
+  author = {Gregory Kahn and Adam Villaflor and Pieter Abbeel and Sergey Levine},
+  booktitle = {Proceedings of the 2nd Annual Conference on Robot Learning},
+  year = {2018}
+}
+```
